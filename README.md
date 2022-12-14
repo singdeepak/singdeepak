@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C, Python**
+- 💬 Ask me about **C, CPP, Python**
 
 - 📫 How to reach me **immrdeepaksingh@gmail.com**
 
