@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singdeepak&label=Profile%20views&color=0e75b6&style=flat" alt="singdeepak" /> </p>
 <img align="right" alt="Coding" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
-- 🌱 I’m currently learning **jQuery**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **C, Python**
 
