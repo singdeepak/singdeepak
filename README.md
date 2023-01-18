@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)](https://github.com/singdeepak/singdeepak/blob/main/Blue%20And%20Red%20Futuristic%20Game%20YouTube%20Channel%20Art.png)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)](https://github.com/singdeepak/singdeepak/blob/main/master.png)
 <h1 align="center">Hi 👋, I'm Deepak Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
