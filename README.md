@@ -24,10 +24,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - deepaksing" height="70" width="80" />
   </a>
   <a href="https://leetcode.com/u/DeepakSing/" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
-         alt="LeetCode - DeepakSing" 
-         height="40" width="40" 
-         style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode - DeepakSing" height="70" width="80"/>
 </a>
 
 </p>
