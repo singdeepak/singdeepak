@@ -10,8 +10,8 @@
 <img align="right" alt="Coding" width="300" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" />
 
 <!-- About -->
-- 🌱 I’m currently learning **Laravel**  
-- 💬 Ask me about **PHP, MySQL, Laravel, JavaScript**  
+- 🌱 I’m currently learning **DSA**  
+- 💬 Ask me about **PHP, MySQL, Laravel, JavaScript, C, C++**  
 - 📫 How to reach me **singhdeepak84088@gmail.com**
 
 <!-- Connect with me -->
@@ -22,6 +22,9 @@
   </a>
   <a href="https://www.hackerrank.com/deepaksing" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - deepaksing" height="70" width="80" />
+  </a>
+  <a href="https://leetcode.com/u/DeepakSing/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode - deepaksing" height="70" width="80" />
   </a>
 </p>
 
