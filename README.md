@@ -17,14 +17,25 @@
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/deepaksing" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - deepaksing" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/deepaksing" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - deepaksing" height="70" width="80" />
-  </a>
   <a href="https://leetcode.com/u/DeepakSing/" target="_blank" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode - DeepakSing" height="70" width="80"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" 
+         alt="LeetCode - DeepakSing" 
+         height="50" width="50" 
+         style="vertical-align: middle; margin-right: 10px;" />
+</a>
+
+<a href="https://www.hackerrank.com/deepaksing" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" 
+         alt="HackerRank - DeepakSing" 
+         height="50" width="50" 
+         style="vertical-align: middle; margin-right: 10px;" />
+</a>
+
+<a href="https://linkedin.com/in/deepaksing" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn - DeepakSing" 
+         height="50" width="50" 
+         style="vertical-align: middle; margin-right: 10px;" />
 </a>
 
 </p>
